@@ -26,3 +26,9 @@ body {
   -webkit-backdrop-filter: blur(2.8px);
   border: 1px solid rgba(13, 91, 255, 0.22);
 }
+
+.judul{
+  position: absolute;
+  top: -10px;
+  left: 46%;
+}
